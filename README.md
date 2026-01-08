@@ -446,10 +446,8 @@ if not result.success:
 **Christopher Celaya**  
 Industrial Electrical Technician | AI Research Engineer  
 Celaya Solutions | El Paso, TX
-
-**Email:** [your-email]  
-**GitHub:** [your-github]  
-**Portfolio:** celayasolutions.com
+  
+**Research:** celayasolutions.com
 
 ---
 
